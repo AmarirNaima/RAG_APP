@@ -14,3 +14,10 @@
 ## Simple Rag App 
 This is a simple implementation of the RAG
 just for getting the idéa how it work
+
+
+## For the UI 
+I want to use Chianlit ,so that i get  some inspiration from here https://github.com/chainalit/flask-chinalit
+- I have installed chinalit 
+So to execute  the app you need to run this command in your terminal (after activating virtual environment) 
+- chainlit run file_name -w
